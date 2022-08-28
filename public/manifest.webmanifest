@@ -3,6 +3,7 @@
   "short_name": "Varchastic",
   "name": "Varchastic: Search And Find Your Favorite Anime And Manga",
   "description": "Simple Web Application To Search And Find Your Favorite Anime And Manga",
+  "id": ".",
   "icons": [
     {
       "src": "favicon.ico",
