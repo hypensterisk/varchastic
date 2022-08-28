@@ -1,6 +1,6 @@
 {
   "$schema": "https://json.schemastore.org/web-manifest-combined.json",
-  "short_name": "React App",
+  "short_name": "Varchastic",
   "name": "Create React App Sample",
   "icons": [
     {
