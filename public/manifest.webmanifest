@@ -2,6 +2,7 @@
   "$schema": "https://json.schemastore.org/web-manifest-combined.json",
   "short_name": "Varchastic",
   "name": "Create React App Sample",
+  "description": "Simple Web Application To Search And Find Your Favorite Anime And Manga",
   "icons": [
     {
       "src": "favicon.ico",
