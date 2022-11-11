@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@types/react-dom": "^18.0.6",
     "gh-pages": "^4.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
@@ -43,6 +42,7 @@
   },
   "homepage": "https://hypensterisk.github.io/varchastic",
   "devDependencies": {
-    "@types/react": "^18.0.25"
+    "@types/react": "^18.0.25",
+    "@types/react-dom": "^18.0.8"
   }
 }
