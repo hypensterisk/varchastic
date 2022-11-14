@@ -3,9 +3,16 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.2.0",
+    "@fortawesome/free-solid-svg-icons": "^6.2.0",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "bootstrap": "^5.2.2",
+    "formik": "^2.2.9",
     "gh-pages": "^4.0.0",
     "react": "^18.2.0",
+    "react-bootstrap": "^2.6.0",
     "react-dom": "^18.2.0",
+    "react-router-dom": "^6.4.3",
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4",
     "workbox-core": "^6.5.4",
@@ -42,6 +49,7 @@
   },
   "homepage": "https://hypensterisk.github.io/varchastic",
   "devDependencies": {
+    "@types/bootstrap": "^5.2.6",
     "@types/react": "^18.0.25",
     "@types/react-dom": "^18.0.8"
   }
