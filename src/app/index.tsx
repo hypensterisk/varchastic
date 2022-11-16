@@ -1,5 +1,11 @@
 /** @format */
 
+import Header from './header'
+
 export default function App() {
-  return null
+  return (
+    <>
+      <Header />
+    </>
+  )
 }
