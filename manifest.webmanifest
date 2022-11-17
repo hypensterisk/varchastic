@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "Varchastic: Search And Find Your Favorite Anime And Manga",
+  "short_name": "Varchastic",
+  "description": "Simple Web Application To Search And Find Your Favorite Anime And Manga",
+  "id": ".",
+  "start_url": ".",
+  "theme_color": "#212529",
+  "background_color": "#6c757d",
+  "orientation": "any",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "type": "image/vnd.microsoft.icon",
+      "sizes": "64x64"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
