@@ -47,7 +47,7 @@
       "last 1 safari version"
     ]
   },
-  "homepage": "https://hypensterisk.github.io/varchastic",
+  "homepage": "https://varchastic.github.io/",
   "devDependencies": {
     "@types/bootstrap": "^5.2.6",
     "@types/react": "^18.0.25",
